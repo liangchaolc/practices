@@ -9,7 +9,7 @@ public class PracticeApplication {
     public static void main(String[] args) {
         SpringApplication.run(PracticeApplication.class, args);
         //查看远端的github是否更新成功
-
+//我是practice分支下的文件
     }
 
 }
